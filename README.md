@@ -13,10 +13,7 @@ Data Analysis
 Data Cleaning and Feature Engineering
 Performing Clustering
 
-
-<img width="474" alt="Screenshot 2022-07-18 at 02 33 41" src="https://user-images.githubusercontent.com/100385953/179431462-4f5acec0-2d7c-42f4-bff3-e32bd2ac8e3c.png">
-
-
+<img width="951" alt="Screenshot 2022-07-18 at 02 38 00" src="https://user-images.githubusercontent.com/100385953/179431490-28cca623-99f2-4265-a39a-67e5306c3867.png">
 
 How to use consumers personality insights
 Did you know that technologies can detect the personality of a user based on its social and web activities? If not, you may have missed one of the most important marketing innovations of recent times.
