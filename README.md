@@ -1,6 +1,5 @@
 # CustPersonality
-
-<img width="951" alt="Screenshot 2022-07-18 at 02 38 00" src="https://user-images.githubusercontent.com/100385953/179431370-7b980d66-30b4-4ba2-b50d-8b30753cb22d.png">
+![consumer-personality-insights](https://user-images.githubusercontent.com/100385953/179431457-8656b93c-8aa5-43e3-947f-379e78ff8979.jpg)
 
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
@@ -15,7 +14,8 @@ Data Cleaning and Feature Engineering
 Performing Clustering
 
 
-![consumer-personality-insights](https://user-images.githubusercontent.com/100385953/179431429-01289147-95c8-4992-b34d-263795df08fc.jpg)
+<img width="474" alt="Screenshot 2022-07-18 at 02 33 41" src="https://user-images.githubusercontent.com/100385953/179431462-4f5acec0-2d7c-42f4-bff3-e32bd2ac8e3c.png">
+
 
 
 How to use consumers personality insights
